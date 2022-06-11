@@ -1,0 +1,10 @@
+github.com/jawahendy/gonumber v0.0.0-20220610034518-c79c37d32b51 h1:sBobcUVHrya1HEkymlCYqiVqqA5E4NREAyqHs2DPA48=
+github.com/jawahendy/gonumber v0.0.0-20220610034518-c79c37d32b51/go.mod h1:t3WIvB2yaddQAZfRDJTg2woX08/6ECttKZqlMuF8Qfk=
+github.com/jawahendy/gonumber v1.0.0 h1:Drvmpj7i5C8jkRHfpJwhaJ4L7sxqAWJS42shoABq4KE=
+github.com/jawahendy/gonumber v1.0.0/go.mod h1:t3WIvB2yaddQAZfRDJTg2woX08/6ECttKZqlMuF8Qfk=
+github.com/jawahendy/gonumber v1.1.0 h1:T+bG5GAyFpiiZtNIn4Yy6FW6G+HawqBVHNwTnW9j9Js=
+github.com/jawahendy/gonumber v1.1.0/go.mod h1:t3WIvB2yaddQAZfRDJTg2woX08/6ECttKZqlMuF8Qfk=
+github.com/jawahendy/gonumber v1.2.0 h1:LfhfdVAzuthRHQr8s36kSV5EcLPF2L/Y1zlpzOlWNmw=
+github.com/jawahendy/gonumber v1.2.0/go.mod h1:t3WIvB2yaddQAZfRDJTg2woX08/6ECttKZqlMuF8Qfk=
+github.com/jawahendy/gonumber/v2 v2.2.0 h1:BDcLYoo46GGXjYUm5aIuua7DQOaIkpgpxmVWiDkUKqU=
+github.com/jawahendy/gonumber/v2 v2.2.0/go.mod h1:to9e7LZm2Qmn2azKDWcmS9Udfyk1Gd5jwm6bbYsD1vE=
